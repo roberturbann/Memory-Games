@@ -1,4 +1,4 @@
-# Memory Game
+# Android Memory Game
 
 We just wanted a simple memory game for kids 4+ age. No ads, no complicated screens, but a straightforward nice looking, working and open source game.
 
